@@ -48,7 +48,7 @@ nav a {
     color: rgb(35, 130, 188);
 }
 
-contact ul a {
+#contact ul a {
     display: flex;
     gap: 16px;
     align-items: center;
